@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\OAD-main\zad1\CharacterSelect\CharacterSelect\obj\Debug\net9.0\CharacterSelect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\OAD-main\zad1\CharacterSelect\CharacterSelect\obj\Debug\net9.0\CharacterSelect.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\OAD-main\zad1\CharacterSelect\CharacterSelect\obj\Debug\net9.0\CharacterSelect.AssemblyInfo.cs
+C:\Users\Admin\Desktop\OAD-main\zad1\CharacterSelect\CharacterSelect\obj\Debug\net9.0\CharacterSelect.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OAD-main\zad1\CharacterSelect\CharacterSelect\bin\Debug\net9.0\CharacterSelect.exe
+C:\Users\Admin\Desktop\OAD-main\zad1\CharacterSelect\CharacterSelect\bin\Debug\net9.0\CharacterSelect.deps.json
+C:\Users\Admin\Desktop\OAD-main\zad1\CharacterSelect\CharacterSelect\bin\Debug\net9.0\CharacterSelect.runtimeconfig.json
+C:\Users\Admin\Desktop\OAD-main\zad1\CharacterSelect\CharacterSelect\bin\Debug\net9.0\CharacterSelect.dll
+C:\Users\Admin\Desktop\OAD-main\zad1\CharacterSelect\CharacterSelect\bin\Debug\net9.0\CharacterSelect.pdb
+C:\Users\Admin\Desktop\OAD-main\zad1\CharacterSelect\CharacterSelect\obj\Debug\net9.0\CharacterSelect.dll
+C:\Users\Admin\Desktop\OAD-main\zad1\CharacterSelect\CharacterSelect\obj\Debug\net9.0\refint\CharacterSelect.dll
+C:\Users\Admin\Desktop\OAD-main\zad1\CharacterSelect\CharacterSelect\obj\Debug\net9.0\CharacterSelect.pdb
+C:\Users\Admin\Desktop\OAD-main\zad1\CharacterSelect\CharacterSelect\obj\Debug\net9.0\CharacterSelect.genruntimeconfig.cache
+C:\Users\Admin\Desktop\OAD-main\zad1\CharacterSelect\CharacterSelect\obj\Debug\net9.0\ref\CharacterSelect.dll
